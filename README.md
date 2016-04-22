@@ -1,1 +1,2 @@
-# Invasion-1945-Game
+# Template
+starter code, serves as a template for everything

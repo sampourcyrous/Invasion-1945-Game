@@ -12,6 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - Infinite background
 - Enemy AI spawns randomly and shoots at player
 - Player has 2 weapons. 2 powerful weapons with limited ammunition and a weak weapon with unlimited ammunition
+- Weapon cool down bar to prevent spamming of weapon
 - The game has 2 enemy waves, an obstacle level and a final boss
 
 This project could not have been done without the hard work and dedication of my group members:

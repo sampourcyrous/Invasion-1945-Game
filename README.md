@@ -8,6 +8,12 @@ Here is a trailer we made for the game:
 " target="_blank"><img src="http://img.youtube.com/vi/e9qlhDmNMjI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+# Game Features
+- Infinite background
+- Enemy AI spawns randomly and shoots at player
+- Player has 2 weapons. 2 powerful weapons with limited ammunition and a weak weapon with unlimited ammunition
+- The game has 2 enemy waves, an obstacle level and a final boss
+
 This project could not have been done without the hard work and dedication of my group members:
 
 - Zubair Baig @zubairbaig

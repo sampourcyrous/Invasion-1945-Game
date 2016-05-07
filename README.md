@@ -7,3 +7,10 @@ Here is a trailer we made for the game:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e9qlhDmNMjI
 " target="_blank"><img src="http://img.youtube.com/vi/e9qlhDmNMjI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+This project could not have been done without the hard work and dedication of my group members:
+
+- Zubair Baig @zubairbaig
+- Artem Clement @metra34
+- Jacob Steele @Jacob-Steele
+- William Chen @wytchen90s
